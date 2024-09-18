@@ -4,7 +4,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Account {
+public class TestClass {
     WebDriver driver;
     PageFactory pageFactory;
     PageObjectModel pageObjectModel;
